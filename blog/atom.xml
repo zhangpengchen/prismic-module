@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://prismic-nuxt.js.org//blog</id>
+    <title>@nuxtjs/prismic Blog</title>
+    <updated>2020-01-04T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://prismic-nuxt.js.org//blog"/>
+    <subtitle>The best place to stay up-to-date with the latest @nuxtjs/prismic news and events.</subtitle>
+    <logo>https://prismic-nuxt.js.org//img/logo.svg</logo>
+    <rights>Copyright © 2020 James Pegg</rights>
+    <entry>
+        <title type="html"><![CDATA[v1.0.0 Released]]></title>
+        <id>https://prismic-nuxt.js.org//blog/2020/01/04/v1.0.0-released.html</id>
+        <link href="https://prismic-nuxt.js.org//blog/2020/01/04/v1.0.0-released.html"/>
+        <updated>2020-01-04T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>The stable version of Nuxt + Prismic finally released!</em></p>
+]]></summary>
+        <author>
+            <name>Sebastien Chopin</name>
+            <email/>
+            <uri>https://github.com/Atinux</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.5.3 Released]]></title>
+        <id>https://prismic-nuxt.js.org//blog/2019/08/18/v0.5.3-released.html</id>
+        <link href="https://prismic-nuxt.js.org//blog/2019/08/18/v0.5.3-released.html"/>
+        <updated>2019-08-18T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>The one where we patched a few security vulnerabilities...</em></p>
+]]></summary>
+        <author>
+            <name>James Pegg</name>
+            <email/>
+            <uri>https://github.com/jamespegg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.5.1 Released]]></title>
+        <id>https://prismic-nuxt.js.org//blog/2019/04/07/v0.5.1-released.html</id>
+        <link href="https://prismic-nuxt.js.org//blog/2019/04/07/v0.5.1-released.html"/>
+        <updated>2019-04-07T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>The one where we launched the <a href="https://prismic-nuxt.js.org/">official documentation</a> site, updated the project README and made the library a little samller...</em></p>
+]]></summary>
+        <author>
+            <name>James Pegg</name>
+            <email/>
+            <uri>https://github.com/jamespegg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.5.0 Released]]></title>
+        <id>https://prismic-nuxt.js.org//blog/2019/03/11/v0.5.0-released.html</id>
+        <link href="https://prismic-nuxt.js.org//blog/2019/03/11/v0.5.0-released.html"/>
+        <updated>2019-03-11T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>The one where the required Node and NPM versions for <code>prismic-nuxt</code> have been dropped down to v8.x.x and v5.x.x respectively...</em></p>
+]]></summary>
+        <author>
+            <name>James Pegg</name>
+            <email/>
+            <uri>https://github.com/jamespegg</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v0.4.0 Released]]></title>
+        <id>https://prismic-nuxt.js.org//blog/2019/02/20/v0.4.0-released.html</id>
+        <link href="https://prismic-nuxt.js.org//blog/2019/02/20/v0.4.0-released.html"/>
+        <updated>2019-02-20T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><em>The one where you can defer loading the Prismic Toolbar (<code>prismic.min.js</code>)...</em></p>
+]]></summary>
+        <author>
+            <name>James Pegg</name>
+            <email/>
+            <uri>https://github.com/jamespegg</uri>
+        </author>
+    </entry>
+</feed>
